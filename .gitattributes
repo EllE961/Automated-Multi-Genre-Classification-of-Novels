@@ -2,3 +2,5 @@
 * text=auto
 *.txt filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
+collected_books.json filter=lfs diff=lfs merge=lfs -text
+stopwords.txt filter=lfs diff=lfs merge=lfs -text
