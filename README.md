@@ -22,7 +22,7 @@ An NLP and machine learning project for classifying English-language novels into
 2. **[Naïve Bayes and Maximum Entropy Comparison](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://iopscience.iop.org/article/10.1088/1742-6596/1722/1/012007/pdf)**: Insights into multi-label classification.
 
 ## Contributors
-This project was completed by a group of four members. To acknowledge their contributions, please mention their names as follows:
+This project was completed by a group of four members.
 
 1. **[Yahya](https://github.com/EllE961)**
 2. **[Omar](https://github.com/alsadio)** 
