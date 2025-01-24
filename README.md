@@ -13,10 +13,6 @@ An NLP and machine learning project for classifying English-language novels into
 2. **Models:** Logistic Regression, Random Forest, Naïve Bayes, RNNs.
 3. **Evaluation Metrics:** F1 Score, Precision, Recall, Hamming Loss.
 
-## Results
-- Logistic Regression achieved the best baseline with F1-macro score: **0.5**.
-- Visualizations: Genre heatmaps, word clouds, text length distributions.
-
 ## Acknowledgments
 1. **[Book Genre Classification by A. Bhatia](https://github.com/akshaybhatia10/Book-Genre-Classification)**: Challenges of title-based classification.
 2. **[Naïve Bayes and Maximum Entropy Comparison](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://iopscience.iop.org/article/10.1088/1742-6596/1722/1/012007/pdf)**: Insights into multi-label classification.
