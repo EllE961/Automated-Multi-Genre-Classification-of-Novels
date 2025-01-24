@@ -29,9 +29,6 @@ This project was completed by a group of four members. To acknowledge their cont
 3. **[Abdullah Al Salmi](https://github.com/abalsalmi)**
 4. **[Abdullah Al Rashdi](https://github.com/Al-Rashdi)**
 
-## Images
-Place the images in the `images/` directory in your repository and link them as shown below:
-
 ### Figures
 1. **Genre Co-occurrence Heatmap**  
    ![Genre Co-occurrence Heatmap](images/genre_cooccurrence_heatmap.png)
