@@ -7,7 +7,6 @@
 ![python](https://img.shields.io/badge/python-3.10+-1f1d1b?style=flat-square&labelColor=0d0c0b)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2-d95926?style=flat-square&labelColor=0d0c0b)
 ![macro F1](https://img.shields.io/badge/macro%20F1-0.49-3987e5?style=flat-square&labelColor=0d0c0b)
-![license](https://img.shields.io/badge/license-MIT-1f1d1b?style=flat-square&labelColor=0d0c0b)
 
 <img src="docs/assets/hero.png" alt="Per-genre F1 of the one-vs-rest logistic regression, from Mystery 0.79 and Drama 0.75 down to Fiction 0.32, next to a 10 by 10 heatmap of which genres the model assigns to test books of each true genre" width="100%">
 
@@ -127,6 +126,6 @@ docs/assets/              figures
 - `NaiveBayes.ipynb`'s stored run stops during preprocessing, so there is no Naive Bayes result. I didn't re-run its 1-3-gram vectorizer over 70M words.
 - The 429 MB corpus lives in Git LFS, so a clone without LFS gets a pointer file instead of the data.
 
-## License
+## Data
 
-MIT, see [LICENSE](LICENSE). Book texts are from Project Gutenberg.
+Book texts are from Project Gutenberg, collected through the Gutendex API.
